@@ -1,0 +1,3 @@
+官方指导文档：https://docs.simplefoc.com/
+官方论坛：https://community.simplefoc.com/
+开发板链接：https://m.tb.cn/h.4TcTcWm?sm=416325
